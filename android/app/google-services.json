@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922074167174",
+    "firebase_url": "https://scan-plat.firebaseio.com",
+    "project_id": "scan-plat",
+    "storage_bucket": "scan-plat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922074167174:android:ae207e24ebdfe955e69e07",
+        "android_client_info": {
+          "package_name": "com.example.scan_plat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922074167174-e5hfg9pjbsq9o57h4af40lc8b3e4jnub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZMJqAz3ql1Watok59CTc0T3cDkeE1kU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922074167174-e5hfg9pjbsq9o57h4af40lc8b3e4jnub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
